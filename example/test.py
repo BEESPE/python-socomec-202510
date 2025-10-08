@@ -1,4 +1,4 @@
-def toto(a):
+def print_ameliore(a):
     print(a)
 
 
